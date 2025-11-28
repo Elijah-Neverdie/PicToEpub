@@ -2,7 +2,17 @@
 
 **Pic2EPUB** 是一个将图片文件夹一键转换为标准 EPUB 电子书的小工具。支持多语言界面（中文 / English）、批量处理、自动封面识别、智能排序，并提供覆盖策略控制。
 
----
+交个朋友，请我喝杯咖啡
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c541884e-76cb-4645-8433-4092ece69133" alt="微信收款码" width="220" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/b473244b-f965-4336-b32d-567e7e38b7a0" alt="支付宝收款码" width="220" />
+
+<br><br>
+<sub>扫码支持作者 ❤️</sub>
+
+</div>
 
 ## ✅ 功能特性
 
@@ -99,5 +109,3 @@ Text
 中文（默认）
 English
 切换语言：点击右上角语言下拉框即可实时切换。
-
-
