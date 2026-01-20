@@ -2,7 +2,7 @@
 
 **Pic2EPUB** 是一个将图片文件夹一键转换为标准 EPUB 电子书的小工具。支持多语言界面（中文 / English）、批量处理、自动封面识别、智能排序，并提供覆盖策略控制。
 
-交个朋友，请我喝杯咖啡
+**项目纯免费**，如果你很喜欢。交个朋友，请我喝杯咖啡
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/c541884e-76cb-4645-8433-4092ece69133" alt="微信收款码" width="220" />
